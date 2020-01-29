@@ -4,5 +4,6 @@
   "signIn": "Sign In",
   "email": "Email address",
   "name":  "Name",
-  "password": "Password"
+  "password": "Password",
+  "submit": "Submit"
 }
